@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import pickle
 
-with open("pages\models\diabeties_xgboost.pkl", "rb") as f:
+with open("pages/models/diabeties_xgboost.pkl", "rb") as f:
     xgb_model = pickle.load(f)
 
 st.markdown(
