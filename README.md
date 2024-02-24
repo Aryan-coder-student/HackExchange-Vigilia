@@ -1,5 +1,5 @@
 # HackExchange Vigilia
-    Welcome to Vigilia the ultimate health companion. Predict potential heart attack, diabetes, and hypertension risks with our machine learning algorithm. Receive personalized precautions and prevention strategies. 
+Welcome to Vigilia the ultimate health companion. Predict potential heart attack, diabetes, and hypertension risks with our machine learning algorithm. Receive personalized precautions and prevention strategies. 
    Early detection, and preventionn and precautionary measures are provided to empower you to take control of your well-being.
    **Select the condition and get the prediction !!** 
 
