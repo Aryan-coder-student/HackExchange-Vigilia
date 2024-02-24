@@ -7,7 +7,7 @@ import numpy as np
 import pickle
 import pandas as pd
 
-with open("pages\models\heart_attack_xgboost.pkl", "rb") as f:
+with open("pages/models/heart_attack_xgboost.pkl", "rb") as f:
     model = pickle.load(f)
 
 
