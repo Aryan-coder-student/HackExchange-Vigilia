@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 
-with open("pages\models\hypertension.pkl", "rb") as f:
+with open("pages/models/hypertension.pkl", "rb") as f:
     model = pickle.load(f)
 
 
